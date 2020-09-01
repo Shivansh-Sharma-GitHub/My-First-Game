@@ -1,6 +1,6 @@
 a = 58
 print("lets play a game of guessing number" ) 
-print ("enter a number")
+print ("Guess the no.:")
 while(True):
     b = int(input())
     if b==a:
